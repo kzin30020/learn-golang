@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Number: ",rand.Intn(10))
+	fmt.Println(rand.Intn(10))
 }
